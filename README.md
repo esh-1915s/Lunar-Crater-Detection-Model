@@ -118,17 +118,32 @@ pip install -r requirements.txt
 
 ## Results
 
-Here is the model performance on test data:
+Here are the quantitative results of the model's performance:
 
-![Model performance](images/performance.png)
-
+| Metric      | Value    |
+|-------------|----------|
+| Precision   | 85.12%   |
+| Recall      | 65.34%   |
+| F1 Score    | 73.93%   |
+| Mean IoU    | 58.65%   |
+| AP         | 75.23%   |
 
 ![](images/loss.png)
-*Loss vs Epoch*
 
 
 ![](images/accu.png)
-*Accuracy vs Epoch*
+
+![](images/sample1.png)
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
 
 
 
