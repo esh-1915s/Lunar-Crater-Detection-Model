@@ -23,7 +23,7 @@ This is a project , for the Bharatiya Antarishk Hackathon organized by ISRO (Ind
 
 LROC WAC images have been used in the training of the model. These images are crucial for ensuring the model's ability to segment lunar surface features accurately.
 
-I have used the labeled images of the [images](#) (Note: Replace the link with the actual dataset link).
+I have used the labeled images of the [images](https://www.kaggle.com/datasets/riccardolagrassa/lu3m6tgt).
 
 ## The Model
 
