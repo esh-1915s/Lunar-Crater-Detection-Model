@@ -123,11 +123,12 @@ Here is the model performance on test data:
 ![Model performance](images/performance.png)
 
 the loss vs epoch trend is :
-![Loss vs Epoch](images/loss.png)
+![](images/loss.png)
+*Loss vs Epoch*
 
 The accuracy vs epoch trend :
-![Accuracy vs Epoch](images/accu.png)
-
+![](images/accu.png)
+*Accuracy vs Epoch*
 
 
 
